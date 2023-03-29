@@ -12,7 +12,7 @@ Misafirol.org
 .env isimli dosya yaratılıp .env.example baz alınarak;
 -  veritabanı bağlantısı için veritabanı bilgileri, 
 -  mail hizmetinin çalışması için mail bilgileri,
--  sms sistemi için NETGSM bilgileri girilmelidir (opsiyonel).
+-  sms sistemi için NETGSM bilgileri girilmelidir (opsiyonel). 
 
 Composer paketlerinin indirilmesi için;
 ```sh

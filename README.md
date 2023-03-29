@@ -26,3 +26,6 @@ Geliştirme modunda çalışmak için;
 ```sh
 npm install
 ```
+## Ayrıca Slack kanalımıza katılarak bize destek olabilirsiniz.
+
+https://join.slack.com/t/msafrol/shared_invite/zt-1rzhbunbb-lUj0aOM1lYD_vxDSpowa~Q

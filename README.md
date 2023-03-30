@@ -24,7 +24,7 @@ php artisan migrate
 ```
 Geliştirme modunda çalışmak için;
 ```sh
-npm install
+php artisan serve
 ```
 ## Ayrıca Slack kanalımıza katılarak bize destek olabilirsiniz.
 
